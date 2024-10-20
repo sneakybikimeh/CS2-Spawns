@@ -14,4 +14,4 @@ This config creates aliases to each spawn location of the officials CS2 maps.
 - For example typing the following in your console `nuke_ct_1` will teleport you to the first spawn on the CT side on de_nuke.
 
 ## Future Update
-I'm planning on adding a more advanced version of this file which will include other commands to easily switch in between spawns on a given map/side, just need to double check the data is fully accurate first.
+I'm planning on adding a more advanced version of this file which will include other bindable commands to easily switch in-between spawns on a given map/side, just need to double check the data is fully accurate first.
