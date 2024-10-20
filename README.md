@@ -1,5 +1,5 @@
 # CS2-Spawns
-This Spawn.cfg file allow you to teleport to each official CS2 map spawns very easily.
+This `spawns.cfg` file allow you to teleport to each official CS2 map spawns very easily.
 
 ## Installation
 1. Open the archive and extract the file spawns.cfg into the following path folder :
